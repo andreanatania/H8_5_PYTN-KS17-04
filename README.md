@@ -2,7 +2,7 @@
 # Repository - Hacktiv8 </br>
 ### Andrea Natania - PYTN-KS17-04
 
-This repository contains my assignments and final projects for Hacktiv8 from Kampus Merdeka Independent Study program. </br>
+This repository is for my assignments and final projects for Hacktiv8 from Kampus Merdeka Independent Study program. </br>
 
 ## **Assignments:**
 1. First Assignment (PYTN_Assgn_1_5_Andrea Natania.ipynb) : Data Visualization using Python (matplotlib, seaborn)
